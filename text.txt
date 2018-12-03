@@ -1,1 +1,2 @@
-learn git student and student
+learn git student and teacher
+
